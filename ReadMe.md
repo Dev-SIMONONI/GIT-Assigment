@@ -37,4 +37,6 @@ step6:do "git add filename" to add the file name to the local directory
 step7: do "git commit -m "setup name user choice" the commit saves the file to the local resporitary and it get a serial number 
 step8: go to thr git hub account create a repository name it whatever leave it as public and create
 step9:copy the ssh key link of the resposrity 
-step10:enter "git remote add origin git@github.com:user email" now the file has be remotely conncted to the github repository
+step10:enter "git remote add origin git@github.com:user email" now the file has be remotely conncted to the github repository 
+
+try to commit more changes
